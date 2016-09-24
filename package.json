@@ -1,0 +1,20 @@
+{
+  "name": "minibuycommonality",
+  "version": "1.0.2",
+  "description": "测试minibuy的商品覆盖lv",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.alibaba-inc.com:wulin.zwl/minibuycommonality.git"
+  },
+  "author": "wulin.zwl <wulin.zwl@taobao.com> (http://wulinzwl.com/)",
+  "license": "ISC",
+  "devDependencies": {
+    "async": "~2.0.1",
+    "node-libcurl": "~1.0.0",
+    "request": "~2.74.0"
+  }
+}
